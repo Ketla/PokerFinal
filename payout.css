@@ -75,9 +75,5 @@ button:hover {
 }
 
 input {
-    font-size: 12px; /* your desired size */
-}
-
-input:focus {
-    font-size: 16px;
+    font-size: 16px; /* your desired size */
 }

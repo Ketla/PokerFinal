@@ -91,10 +91,11 @@ h1 {
   color: green;
 }
 
-/* CSS for limiting input field width */
-.rebuy-input {
-  width: 50px; /* Adjust the width as needed */
-  padding: 5px; /* Optional: Add padding for better appearance */
+input {
+  font-size: 16px;
+  width: 80px; /* or your desired width */
+  padding: 2px 5px;
+  box-sizing: border-box; /* ensures that padding is included in the total width */
 }
 
 /* CSS styles for the button */
